@@ -1,0 +1,29 @@
+.form-control {
+    border-radius: 3px;
+    width: 300px;
+    margin-left: 20px;
+    position: relative;
+    right: -50rem;
+}
+
+.search-icon {
+    position: absolute;
+    z-index: 10;
+    right: 10%;
+    top: 22px;
+    color: blue;
+}
+
+.links {
+
+    margin-right: 10px;
+    margin-top: 5px
+}
+
+
+span, a {
+
+    
+    color:whitesmoke
+
+}
